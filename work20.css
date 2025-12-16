@@ -1,0 +1,21 @@
+th{
+    text-align: center;
+}
+th , td  {
+    padding: 8px;
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+
+table {
+  border-collapse: collapse;
+
+}
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+td {
+  text-align: center;
+}
+

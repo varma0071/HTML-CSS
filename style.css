@@ -1,0 +1,10 @@
+
+#financial-plan {
+    background-image: url('https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg');
+    text-align: center;
+    color: white;
+}
+#financial-plan div {
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 250px;
+}

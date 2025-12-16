@@ -1,0 +1,28 @@
+#container img {
+    width : 60%;
+}
+.img1 {
+    float :left;
+    width : 30%;
+    margin-left : 10px;
+    margin-top :5px;
+    padding: 20px;
+    text-align: center;
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.source{
+    text-align: center ;
+}
+
+.img1 button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: skyblue;
+    color: white;
+    border: none;
+    border-radius: 60%;
+    cursor: pointer;
+}
+body{
+    font-family: Arial, sans-serif;
+}

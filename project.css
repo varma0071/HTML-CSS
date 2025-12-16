@@ -1,0 +1,115 @@
+#header {
+    background-color:rgb(0, 29, 56);
+    color: rgb(103, 112, 115);
+    display : flex;
+    justify-content : space-between;
+    font-size: 16px;
+}
+body{
+    margin : 0px; 
+}
+#footer {
+    display : flex;
+    padding : 15px;
+    display: flex;
+    justify-content : center;
+    column-gap: 10px;
+
+
+    
+}
+#footer i {
+    color : orange ;
+
+}
+#logo {
+    height : 50px;
+    margin-left : 150px;
+}
+#navlinks {
+    padding-right :250px;
+    padding-top : 14px;
+    justify-content : space-around;
+    color: aliceblue;
+
+}
+
+
+
+
+#middleheader {
+    background-image : url(	https://preview.colorlib.com/theme/realestate2/img/banner/banner.png);
+    height : 120%;
+    padding:10px;
+    display: flex;
+    padding-left: 50px;
+    justify-content: space-around;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+#home li {
+    display: flex;
+    flex-direction: column;   
+    float: left ;
+    margin-right : 45px;
+    text-decoration : none;
+    color : white ;
+}
+
+#searchbutton spam {
+    background-color: rgb(252, 141, 93);
+    color : white;
+    border : 50px;
+    height : 70px;
+    width : 100px;
+    font-size : 20px;
+    border-radius : 90px;
+    padding : 15px 25px;
+    cursor: pointer;
+    margin-right:20px;
+
+}
+#singlelogo spam {
+    color: rgb(255, 166, 0);
+}
+#singlelogo h1 {
+    color: white ;
+    font-size: 35px;
+}
+
+#imgsrc h1    {
+    padding-left: 39%;
+    margin-bottom: 30px;
+    justify-content: center;
+    font-size: 35px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    
+
+}
+
+
+
+
+
+#images{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+
+
+}
+
+.img6 {
+    width : 25%;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column; 
+    padding-left: 20px;
+    
+
+}

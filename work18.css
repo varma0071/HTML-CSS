@@ -1,0 +1,38 @@
+#navbar{
+    background: rgb(222, 148, 148);
+    color: white;
+    padding: 10px 30px;
+    display: flex;
+    color: white;
+    height: 80px;
+
+}
+#logo{
+    width : 45%;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 30px; 
+}
+#nav {
+    width: 55%;
+     color:white;
+    padding-top: 30px;
+}
+#navbar div{
+    float: left;
+    text-decoration:none;
+    color:white;
+}
+
+#nav li{
+    float: left ;
+    margin-right: 45px;
+    text-decoration:none;
+}
+#nav li a{
+    text-decoration:none;
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 40px ;
+}
